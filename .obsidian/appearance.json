@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Atom",
+  "theme": "system",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "showRibbon": true,
+  "accentColor": "#7586db"
+}
