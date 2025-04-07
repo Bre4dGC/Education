@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планы на 2025.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планы на 2025"
+              "title": "README"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -167,8 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -187,8 +187,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -197,8 +197,8 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -207,12 +207,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a91eb53821b283d2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -232,18 +242,15 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Show Customization sync": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3d4e16f3a73e075",
+  "active": "00e57d68d9c7b2c7",
   "lastOpenFiles": [
+    "Планы на 2025.md",
+    "README.md",
     "Rust",
     "Rust.md",
-    "Планы на 2025.md",
     "Other/Дней без.md",
     "Books/2025/Программирование введение в профессию 1.md",
     "Books/2025/Теоретический минимум по Computer Science.md",
@@ -276,7 +283,6 @@
     "System Programming/Сделай сам - MSc Computer Science на уровне топ американских университетов из дома.md",
     "System Programming/Системное программирование.md",
     "C++/Чем отличаются STL-контейнеры vector и array.md",
-    "Network",
     "images/Pasted image 20250405000550.png",
     "images/Pasted image 20250405000307.png",
     "images/{95EEA39E-B777-495A-9489-2D0105F68B22}.png",
