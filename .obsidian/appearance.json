@@ -1,9 +1,11 @@
 {
   "cssTheme": "Atom",
-  "theme": "system",
-  "baseFontSize": 18,
+  "theme": "obsidian",
+  "baseFontSize": 20,
   "nativeMenus": true,
   "baseFontSizeAction": true,
   "showRibbon": true,
-  "accentColor": "#7586db"
+  "accentColor": "#4649af",
+  "textFontFamily": "",
+  "interfaceFontFamily": "0xProto Nerd Font Mono"
 }

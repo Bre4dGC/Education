@@ -1,0 +1,15 @@
+## Предметы
+[Математика за 12 часов](https://youtu.be/bOd_ecJon9s?si=8kJB7UuEZxcuowwX)
+[Физика - math and science](https://www.youtube.com/playlist?list=PLnVYEpTNGNtVbNcnrr8HoxXqPi6JBQMFa)
+[физика - crash course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
+[физика - michael van biezen](https://youtube.com/playlist?list=PLX2gX-ftPVXVCw9WxxEA4yD14k8yskTSj&si=JdRg2UOjRjJnDGIl)
+[Химия](https://www.youtube.com/watch?v=pdyDmXtye2w&list=PLnVYEpTNGNtVryZHBqJUqXprrQcx_BdhD)
+## Программирование
+[Язык C](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
+[Язык C++](https://www.tutorialspoint.com/cplusplus/index.htm)
+[Операционные системы](https://www.tutorialspoint.com/basics_of_computer_science/basics_of_computer_science_operating_system.htm)
+[Архитектура компьютера](https://www.tutorialspoint.com/computer_fundamentals/index.htm)
+[Компьютерные сети](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
+[Компиляторо-строение](https://www.tutorialspoint.com/compiler_design/index.htm)
+[Основы Ассемблера](https://www.youtube.com/playlist?list=PLlheCABZdy3P1OUheSoV4CeRvna5kleB-)
+[Базовый курс программирования на C++](https://www.youtube.com/playlist?list=PLlheCABZdy3OZoIh9VwlYUbTSCWwDUee6)

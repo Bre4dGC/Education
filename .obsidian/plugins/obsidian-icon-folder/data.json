@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolder",
-      "LiLanguages",
-      "LiBookOpen",
-      "LiComputer",
-      "LiFileStack"
+      "🉑",
+      "LiBrush",
+      "LiHistory",
+      "LiUsers2",
+      "LiUsers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,30 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Education": "LiNotebookPen",
+  "Other": "LiArchive",
+  "Philosophy": "LiScroll",
+  "images": "LiImages",
+  "Programming/System Programming/Network": "LiNetwork",
+  "Programming/System Programming/Computer": "LiComputer",
+  "Programming": "LiTerminalSquare",
+  "Philosophy/Other": "LiArchive",
+  "Programming/Fortran": "LiFacebook",
+  "Programming/Other": "LiArchive",
+  "Programming/Projects": "LiProjector",
+  "Programming/System Programming": "LiMonitorCog",
+  "Programming/Personalities": "LiUsers",
+  "Philosophy/Stoicism": "LiRectangleVerticalDouble",
+  "Philosophy/Personalities": "LiUsers",
+  "Other/Hotkeys": "LiKeyboard",
+  "History": "LiHistory",
+  "History/Personalities": "LiUsers",
+  "History/Painting": "LiBrush",
+  "Prog-Blog": "LiBlocks",
+  "Science/Physics": "LiApple",
+  "Science/Physics/Atomic": "LiAtom",
+  "Science/Physics/Other": "LiArchive",
+  "Science/Physics/Personalities": "LiUsers2",
+  "Science/Physics/Quantum": "LiArrowUp01"
 }

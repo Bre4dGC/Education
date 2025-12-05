@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "ROADMAP",
+      "path": "ROADMAP.md"
+    },
+    {
+      "basename": "RESOURCES",
+      "path": "RESOURCES.md"
+    },
+    {
+      "basename": "MATH",
+      "path": "MATH.md"
+    },
+    {
+      "basename": "Джон фон Нейман",
+      "path": "Programming/Personalities/Джон фон Нейман.md"
+    },
+    {
+      "basename": "Разница между Arduino и Rasbbery PI",
+      "path": "Programming/Other/Разница между Arduino и Rasbbery PI.md"
+    },
+    {
+      "basename": "Commits message style",
+      "path": "Programming/Other/Commits message style.md"
+    },
+    {
+      "basename": "Как писать блоги",
+      "path": "Prog-Blog/Как писать блоги.md"
+    },
+    {
+      "basename": "Hedonism",
+      "path": "Philosophy/Hedonism.md"
+    },
+    {
+      "basename": "Kinism",
+      "path": "Philosophy/Kinism.md"
+    },
+    {
+      "basename": "Stoicism",
+      "path": "Philosophy/Stoicism.md"
+    },
+    {
+      "basename": "Lunatask",
+      "path": "Other/Apps/Lunatask.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Education/Resources.md"
+    },
+    {
+      "basename": "Изучение базы, системного программирования, comp science",
+      "path": "Education/Other/Изучение базы, системного программирования, comp science.md"
+    },
+    {
+      "basename": "Годовой план развития системного программиста — по неделям",
+      "path": "Education/Other/Годовой план развития системного программиста — по неделям.md"
+    },
+    {
       "basename": "README",
-      "path": "README.md"
+      "path": "Programming/README.md"
     },
     {
-      "basename": "Дней без",
-      "path": "Other/Дней без.md"
+      "basename": "SEMANTIC_ANALYSIS",
+      "path": "Programming/SEMANTIC_ANALYSIS.md"
     },
     {
-      "basename": "Программирование введение в профессию 1",
-      "path": "Books/2025/Программирование введение в профессию 1.md"
+      "basename": "QUICK_START_SEMANTIC",
+      "path": "Programming/QUICK_START_SEMANTIC.md"
     },
     {
-      "basename": "Теоретический минимум по Computer Science",
-      "path": "Books/2025/Теоретический минимум по Computer Science.md"
+      "basename": "0.5",
+      "path": "Programming/Projects/Bread Crumbs/0.5.md"
     },
     {
-      "basename": "Указатели на функции в C",
-      "path": "C/Указатели на функции в C.md"
+      "basename": "0.4",
+      "path": "Programming/Projects/Bread Crumbs/0.4.md"
     },
     {
-      "basename": "How to Think Like a Computer Scientist",
-      "path": "Books/For printing/How to Think Like a Computer Scientist.pdf"
+      "basename": "Rust",
+      "path": "Programming/System Programming/Rust.md"
     },
     {
-      "basename": "Сердце вычислительных устройств - как работает процессор и память",
-      "path": "Computer/Сердце вычислительных устройств - как работает процессор и память.md"
+      "basename": "0.3",
+      "path": "Programming/Projects/Bread Crumbs/0.3.md"
     },
     {
-      "basename": "Arithmetic-Interpreter",
-      "path": "Projects/Arithmetic-Interpreter.md"
+      "basename": "Compilers & Interpreters",
+      "path": "Programming/System Programming/Compilers & Interpreters.md"
     },
     {
-      "basename": "Bread Crumbs",
-      "path": "Projects/Bread Crumbs.md"
+      "basename": "0.2",
+      "path": "Programming/Projects/Bread Crumbs/0.2.md"
     },
     {
-      "basename": "Line-Extractor",
-      "path": "Projects/Line-Extractor.md"
+      "basename": "0.1",
+      "path": "Programming/Projects/Bread Crumbs/0.1.md"
     },
     {
-      "basename": "Dirty",
-      "path": "Projects/Dirty.md"
+      "basename": "Drawing 2025-10-02 16.50.21.excalidraw",
+      "path": "Programming/Projects/Bread Crumbs/Drawing 2025-10-02 16.50.21.excalidraw.md"
     },
     {
-      "basename": "К.В Практический курс по C",
-      "path": "C/К.В Практический курс по C.md"
+      "basename": "reshala",
+      "path": "Programming/Projects/Bread Crumbs/reshala.md"
     },
     {
-      "basename": "Указатели важны, потому что всё — это адрес!!!",
-      "path": "Computer/Указатели важны, потому что всё — это адрес!!!.md"
+      "basename": "Edward Hopper - Soir Bleu",
+      "path": "History/Painting/Edward Hopper - Soir Bleu.md"
+    },
+    {
+      "basename": "Drawing 2025-11-05 21.55.00.excalidraw",
+      "path": "Programming/Projects/Drawing 2025-11-05 21.55.00.excalidraw.md"
+    },
+    {
+      "basename": "EBNF-Грамматика",
+      "path": "Programming/System Programming/EBNF-Грамматика.md"
+    },
+    {
+      "basename": "idea",
+      "path": "Programming/Projects/TuichaOS/apps/dirty/idea.md"
+    },
+    {
+      "basename": "visualisation",
+      "path": "Programming/Projects/TuichaOS/apps/dirty/visualisation.md"
+    },
+    {
+      "basename": "idea",
+      "path": "Programming/Projects/aura/idea.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Programming/Projects/aura/Untitled.canvas"
+    },
+    {
+      "basename": "idea",
+      "path": "Programming/Projects/codead/idea.md"
+    },
+    {
+      "basename": "BFOS",
+      "path": "Programming/Projects/BFOS.md"
     },
     {
       "basename": "Основы программирования",
-      "path": "System Programming/Основы программирования.md"
-    },
-    {
-      "basename": "C",
-      "path": "System Programming/C.md"
-    },
-    {
-      "basename": "Операционныe системы",
-      "path": "System Programming/Операционныe системы.md"
+      "path": "Programming/System Programming/Основы программирования.md"
     },
     {
       "basename": "Сделай сам - MSc Computer Science на уровне топ американских университетов из дома",
-      "path": "System Programming/Сделай сам - MSc Computer Science на уровне топ американских университетов из дома.md"
+      "path": "Programming/System Programming/Сделай сам - MSc Computer Science на уровне топ американских университетов из дома.md"
     },
     {
       "basename": "Системное программирование",
-      "path": "System Programming/Системное программирование.md"
+      "path": "Programming/System Programming/Системное программирование.md"
     },
     {
-      "basename": "Чем отличаются STL-контейнеры vector и array",
-      "path": "C++/Чем отличаются STL-контейнеры vector и array.md"
+      "basename": "Язык программирования Fortran",
+      "path": "Programming/System Programming/Язык программирования Fortran.md"
     },
     {
-      "basename": "Чем отличаются unordered_set, unordered_map и set, map",
-      "path": "C++/Чем отличаются unordered_set, unordered_map и set, map.md"
+      "basename": "visual",
+      "path": "Programming/Projects/codead/visual.md"
     },
     {
-      "basename": "Что будет если бросить исключение из деструктора",
-      "path": "C++/Что будет если бросить исключение из деструктора.md"
+      "basename": "idea",
+      "path": "Programming/Projects/TuichaOS/apps/gratuisque/idea.md"
     },
     {
-      "basename": "Что будет, если вызвать free для nullptr",
-      "path": "C++/Что будет, если вызвать free для nullptr.md"
+      "basename": "Drawing 2025-06-25 23.59.58.excalidraw",
+      "path": "Programming/Projects/TuichaOS/apps/gratuisque/Drawing 2025-06-25 23.59.58.excalidraw.md"
     },
     {
-      "basename": "Что в себе хранит указатель",
-      "path": "C++/Что в себе хранит указатель.md"
+      "basename": "idea",
+      "path": "Programming/Projects/TuichaOS/idea.md"
     },
     {
-      "basename": "Что такое API и как с ним работать",
-      "path": "Network/Что такое API и как с ним работать.md"
+      "basename": "visualisation",
+      "path": "Programming/Projects/TuichaOS/visualisation.md"
     },
     {
-      "basename": "Утечки памяти и отладка с помощью Valgrind",
-      "path": "C/Утечки памяти и отладка с помощью Valgrind.md"
+      "basename": "All In One - AIO",
+      "path": "Programming/Projects/All In One - AIO.md"
     },
     {
-      "basename": "Ускорение производительности с restrict в C",
-      "path": "C/Ускорение производительности с restrict в C.md"
+      "basename": "Arithmetic-Interpreter",
+      "path": "Programming/Projects/Arithmetic-Interpreter.md"
     },
     {
-      "basename": "Что возвращают функции std при передачи туда пустых аргументов",
-      "path": "C++/Что возвращают функции std при передачи туда пустых аргументов.md"
+      "basename": "sterfmt",
+      "path": "Programming/Projects/sterfmt.md"
     },
     {
-      "basename": "Что такое UNIX",
-      "path": "OS/Что такое UNIX.md"
+      "basename": "форматирование кода",
+      "path": "Programming/Projects/форматирование кода.md"
     },
     {
-      "basename": "Что такое функции обратного вызова",
-      "path": "C++/Что такое функции обратного вызова.md"
+      "basename": "Abstract Syntax Tree",
+      "path": "Programming/System Programming/Abstract Syntax Tree.md"
     },
     {
-      "basename": "Интерпретатор — что такое",
-      "path": "System Programming/Интерпретатор — что такое.md"
-    },
-    {
-      "basename": "Архитектура компьютера",
-      "path": "System Programming/Архитектура компьютера.md"
-    },
-    {
-      "basename": "Как работает C и C++ фундаментальные принципы компиляции и линковки",
-      "path": "System Programming/Как работает C и C++ фундаментальные принципы компиляции и линковки.md"
-    },
-    {
-      "basename": "Компилятор - что это, как работает, где применяется в программировании",
-      "path": "System Programming/Компилятор - что это, как работает, где применяется в программировании.md"
-    },
-    {
-      "basename": "Компьютерные сети и интернет",
-      "path": "System Programming/Компьютерные сети и интернет.md"
-    },
-    {
-      "basename": "Самый быстрый способ обнулить память",
-      "path": "C/Самый быстрый способ обнулить память.md"
-    },
-    {
-      "basename": "Работа с памятью в языке С",
-      "path": "C/Работа с памятью в языке С.md"
-    },
-    {
-      "basename": "Виртуальная память - решение трёх ключевых проблем управления памятью",
-      "path": "OS/Виртуальная память - решение трёх ключевых проблем управления памятью.md"
-    },
-    {
-      "basename": "Иерархия памяти",
-      "path": "Computer/Иерархия памяти.md"
-    },
-    {
-      "basename": "Работа памяти",
-      "path": "Computer/Работа памяти.md"
-    },
-    {
-      "basename": "Примитивная модель процессора для программиста.",
-      "path": "Computer/Примитивная модель процессора для программиста..md"
-    },
-    {
-      "basename": "Расскажи о различиях ссылки и указателя",
-      "path": "C++/Расскажи о различиях ссылки и указателя.md"
-    },
-    {
-      "basename": "Планирование процессов в операционных системах - алгоритмы и стратегии",
-      "path": "OS/Планирование процессов в операционных системах - алгоритмы и стратегии.md"
-    },
-    {
-      "basename": "Компилятор - что это такое и для чего он нужен в программировании",
-      "path": "System Programming/Компилятор - что это такое и для чего он нужен в программировании.md"
-    },
-    {
-      "basename": "Архитектура ядра Windows - монолитное, микроядро или гибридное",
-      "path": "OS/Архитектура ядра Windows - монолитное, микроядро или гибридное.md"
-    },
-    {
-      "basename": "Почему printf выполняется дважды после fork()",
-      "path": "OS/Почему printf выполняется дважды после fork().md"
-    },
-    {
-      "basename": "нужно знать",
-      "path": "C/нужно знать.md"
-    },
-    {
-      "basename": "Можно ли в С++ объявить указатель на функцию",
-      "path": "C++/Можно ли в С++ объявить указатель на функцию.md"
-    },
-    {
-      "basename": "Когда нужно объявлять деструктор виртуальным",
-      "path": "C++/Когда нужно объявлять деструктор виртуальным.md"
-    },
-    {
-      "basename": "Классы хранения на языке C",
-      "path": "C/Классы хранения на языке C.md"
+      "basename": "Escape Sequence",
+      "path": "Programming/System Programming/Escape Sequence.md"
     }
   ],
   "omittedPaths": [],

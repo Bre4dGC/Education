@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>Gleb activity</title>
+<link href="https://gitlab.com/Bre4dGC.atom" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/Bre4dGC" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/Bre4dGC</id>
+<updated>2024-11-09T19:48:07Z</updated>
+<entry>
+  <id>tag:gitlab.com,2024-11-09:3805417866</id>
+  <link href="https://gitlab.com/tech-power-partners/code-guru/career-craft/vacancy-service/-/merge_requests/1#note_2202402135"/>
+  <title>Gleb commented on merge request !1 at TechPowerPartners / CodeGuru / Career Craft / Vacancy Service</title>
+  <updated>2024-11-09T19:48:07Z</updated>
+  <media:thumbnail width="40" height="40" url="https://gitlab.com/uploads/-/system/user/avatar/23028682/avatar.png"/>
+  <author>
+    <username>Bre4dGC</username>
+    <name>Gleb</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p data-sourcepos="1:1-1:22" dir="auto">Richard ppc ti dushniy</p>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2024-11-01:3782256907</id>
+  <link href="https://gitlab.com/Bre4dGC/passguard/-/commits/main"/>
+  <title>Gleb pushed new project branch main at Gleb / PassGuard</title>
+  <updated>2024-11-01T17:24:21Z</updated>
+  <media:thumbnail width="40" height="40" url="https://gitlab.com/uploads/-/system/user/avatar/23028682/avatar.png"/>
+  <author>
+    <username>Bre4dGC</username>
+    <name>Gleb</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Gleb</strong>
+<a href="https://gitlab.com/Bre4dGC/passguard/-/commits/main">(b675229c)</a>
+<i>
+at
+01 Nov 17:24
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Add Readme</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2024-11-01:3782255360</id>
+  <link href="https://gitlab.com/Bre4dGC/passguard"/>
+  <title>Gleb created project Gleb / PassGuard</title>
+  <updated>2024-11-01T17:23:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://gitlab.com/uploads/-/system/user/avatar/23028682/avatar.png"/>
+  <author>
+    <username>Bre4dGC</username>
+    <name>Gleb</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2024-10-31:3779845682</id>
+  <link href="https://gitlab.com/tech-power-partners/colab/colab/-/commit/2598bcd528731eed28c85876cd05e6b5f7f6a3d6"/>
+  <title>Gleb pushed to project branch main at TechPowerPartners / Colab / Desktop</title>
+  <updated>2024-10-31T18:52:53Z</updated>
+  <media:thumbnail width="40" height="40" url="https://gitlab.com/uploads/-/system/user/avatar/23028682/avatar.png"/>
+  <author>
+    <username>Bre4dGC</username>
+    <name>Gleb</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Gleb</strong>
+<a href="https://gitlab.com/tech-power-partners/colab/colab/-/commit/2598bcd528731eed28c85876cd05e6b5f7f6a3d6">(2598bcd5)</a>
+<i>
+at
+31 Oct 18:52
+</i>
+</p>
+<div class="blockquote"><p dir="auto">add Authentication</p></div>
+</div>
+  </summary>
+</entry>
+</feed>

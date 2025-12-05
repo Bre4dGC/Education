@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dbd6fd40b5e41f7d","type":"text","text":"<center>AURA<center>","x":-120,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"8e4bfa92a7e8e1bb","type":"text","text":"","x":-120,"y":-100,"width":250,"height":60}
+	],
+	"edges":[]
+}

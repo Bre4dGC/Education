@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c273dfb0382a2196",
+        "id": "c8699faec6727247",
         "type": "tabs",
         "children": [
           {
-            "id": "00e57d68d9c7b2c7",
+            "id": "10634b3176e715fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "ROADMAP.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "ROADMAP"
             }
           }
         ]
@@ -80,15 +78,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "right": {
     "id": "f852427197d01f71",
@@ -162,43 +160,13 @@
             }
           },
           {
-            "id": "2a9faed6a68030b3",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d9f9970f3e680952",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c93af97ab066f4c5",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "7ecec2822e9f453c",
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "code-execute-manage-executors"
             }
           },
           {
@@ -207,92 +175,105 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
-            "id": "a91eb53821b283d2",
+            "id": "34fb008d2db0db46",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "calendar",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c3aaa690d5a180d8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "00e57d68d9c7b2c7",
+  "active": "10634b3176e715fd",
   "lastOpenFiles": [
-    "Планы на 2025.md",
-    "README.md",
-    "Rust",
-    "Rust.md",
-    "Other/Дней без.md",
-    "Books/2025/Программирование введение в профессию 1.md",
-    "Books/2025/Теоретический минимум по Computer Science.md",
-    "C/Указатели на функции в C.md",
-    "Books/For printing/How to Think Like a Computer Scientist.pdf",
-    "Computer/Сердце вычислительных устройств - как работает процессор и память.md",
-    "Projects/Arithmetic-Interpreter.md",
-    "Books/For printing/Код тайный язык информатики.pdf",
-    "Books/For printing/Операционные системы от 0 до 1.pdf",
-    "Books/For printing/Программирование на ассемблере x64.pdf",
-    "Books/For printing/Структура компиляторов.pdf",
-    "Books/For printing",
-    "Projects/Bread Crumbs.md",
-    "Projects/Line-Extractor.md",
-    "Projects/Dirty.md",
-    "Projects/dirty/Техническая часть.md",
-    "Projects/Untitled",
-    "Other/План обучения DeepSeek.md",
-    "Other/План обучения ChatGPT.md",
-    "Other/Изучение математики.md",
-    "Other/Изучение языков программирования.md",
-    "Other/Изучение базы, системного программирования, comp science.md",
-    "Other",
-    "C/К.В Практический курс по C.md",
-    "Computer/Указатели важны, потому что всё — это адрес!!!.md",
-    "System Programming/Основы программирования.md",
-    "System Programming/C.md",
-    "System Programming/Операционныe системы.md",
-    "System Programming",
-    "System Programming/Сделай сам - MSc Computer Science на уровне топ американских университетов из дома.md",
-    "System Programming/Системное программирование.md",
-    "C++/Чем отличаются STL-контейнеры vector и array.md",
-    "images/Pasted image 20250405000550.png",
-    "images/Pasted image 20250405000307.png",
-    "images/{95EEA39E-B777-495A-9489-2D0105F68B22}.png",
-    "images/{84B12555-A305-4DB2-8686-B68CBA93C5C6}.png",
-    "images/{F1DEA36D-78D3-4DE0-851D-8E9B2297A8F2}.png",
-    "images/{0DE79585-1044-4722-8BA8-A5AAADAB2C88}.png",
-    "images/{40513371-A599-43F3-A337-4D0F4CA72EED}.png",
-    "images/{42C0CA34-89B6-4293-9D61-4596356DBE86}.png",
-    "images/Pasted image 20250403211833.png",
-    "images/{712887E0-B894-4EFD-90E9-E3F5E4FD9B3B}.png",
-    "Untitled.canvas"
+    "RESOURCES.md",
+    "MATH.md",
+    "Programming/Personalities/Джон фон Нейман.md",
+    "Programming/Other/Разница между Arduino и Rasbbery PI.md",
+    "Programming/Other/Commits message style.md",
+    "Prog-Blog/Как писать блоги.md",
+    "Philosophy/Hedonism.md",
+    "Philosophy/Kinism.md",
+    "Philosophy/Stoicism.md",
+    "Other/Apps/Lunatask.md",
+    "Education/Resources.md",
+    "Education/Other/Изучение базы, системного программирования, comp science.md",
+    "Education/Other/Годовой план развития системного программиста — по неделям.md",
+    "ROADMAP.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "mathproblems.ru.md",
+    "photo_2025-12-03_01-15-33.jpg",
+    "photo_2025-12-03_01-38-44.jpg",
+    "images/Pasted image 20251202140819.png",
+    "Расписание.md",
+    "photo_2025-11-05_12-57-10.jpg",
+    "conf/appearance/boot/icon.png",
+    "Programming/README.md",
+    "Programming/SEMANTIC_ANALYSIS.md",
+    "yedekkodlar.pdf",
+    "Education/Month/Апрель.md",
+    "Languages/Japanese/Most used Japanese words.md",
+    "Languages/Japanese/katakana_writing_practice_sheets.pdf",
+    "Languages/Japanese/hiraganakatakanaworksheet.pdf",
+    "Languages/Japanese/hiragana_writing_practice_sheets.pdf",
+    "pages/contents.md",
+    "Programming/QUICK_START_SEMANTIC.md",
+    "Programming/Projects/Bread Crumbs/0.5.md",
+    "Programming/Projects/Bread Crumbs/0.4.md",
+    "Untitled.base",
+    "Programming/System Programming/Rust.md",
+    "logseq/custom.css",
+    "pages",
+    "logseq/config.edn",
+    "journals",
+    "logseq",
+    "Programming/Projects/Untitled.canvas",
+    "Programming/Projects/aura/Untitled.canvas",
+    "images/ascii_table-nocolor.svg-1541742.png",
+    "Programming/Other/Untitled.canvas",
+    "images/c4d00d5ca1834cf378fc45d77cd50ac4.jpg",
+    "images/diogenes-greek-philosopher-2551046113.jpg",
+    "images/epictetus-1435723969.jpg",
+    "images/epictetus-3483031257.jpg",
+    "Programming/Projects/Tuicha OS/Untitled.canvas"
   ]
 }
